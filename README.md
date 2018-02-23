@@ -1,7 +1,7 @@
 # NoteApp
 Simple note app with flask framework
 
-![Screenshot of note app](note_app_screen.png)
+![Screenshot of note app](https://github.com/MartaGolabek/NoteApp/blob/master/note_app_screen.PNG)
 
 ## Technologies used:
 	* Database: SQLite
